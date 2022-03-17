@@ -1,0 +1,18 @@
+p {
+  font-size: 23px;
+}
+.bg {
+  background-image: url(/public/Logo/RedBgT.png);
+}
+.secondRow {
+  background-color: #57196a !important;
+}
+.col {
+  font-weight: 800;
+}
+body {
+  overflow-x: hidden;
+}
+.img {
+  border-radius: 50%;
+}
